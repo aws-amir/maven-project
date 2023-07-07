@@ -1,8 +1,6 @@
 <html>
 <body>
 <h1>Hello World! We Are From Hyderabad to Learn DevOps By Ashok IT Sir</h1>
-<h2>Hello EveryOne This Testing Purpose Action To Check the Performance of the project...!</h2>
-<h3>Happy Learning to DevOps...!</h3>
-<h4>Welcome to DevOps Classes For learing...!</h4>
+<h2>Hello EveryOne Our Build and Deployment which is Continous Integration and Deployment SuccessFul...HAPPY LEARNING....</h2>
 </body>
 </html>
